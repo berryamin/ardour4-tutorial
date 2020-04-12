@@ -17,3 +17,6 @@ grunt  (takes ages due to image minification using optipng )
 # Octopress
 sudo gem install bundler
 bundler install
+
+# Start doc server using Jekyll
+jekyll serve
